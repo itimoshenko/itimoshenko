@@ -1,5 +1,7 @@
 # Ivan Timoshenko
 
+My CV is [here](https://itimoshenko.github.io/cv/).
+
 ## Technical assignments
 
 - [dynamic-form-task](https://github.com/itimoshenko/dynamic-form-task) TypeScript, React
